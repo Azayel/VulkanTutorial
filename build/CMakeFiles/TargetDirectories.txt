@@ -1,5 +1,0 @@
-/home/asayel/Documents/git/VulkanTutorial/build/CMakeFiles/VulkanTest.dir
-/home/asayel/Documents/git/VulkanTutorial/build/CMakeFiles/run-all.dir
-/home/asayel/Documents/git/VulkanTutorial/build/CMakeFiles/clean-all.dir
-/home/asayel/Documents/git/VulkanTutorial/build/CMakeFiles/edit_cache.dir
-/home/asayel/Documents/git/VulkanTutorial/build/CMakeFiles/rebuild_cache.dir
