@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/asayel/Documents/git/VulkanTutorial/build",
+  "command": "/sbin/c++  -I/home/asayel/Documents/git/VulkanTutorial/includes  -O2 -std=gnu++20 -o CMakeFiles/VulkanTest.dir/src/main.cpp.o -c /home/asayel/Documents/git/VulkanTutorial/src/main.cpp",
+  "file": "/home/asayel/Documents/git/VulkanTutorial/src/main.cpp",
+  "output": "CMakeFiles/VulkanTest.dir/src/main.cpp.o"
+}
+]
